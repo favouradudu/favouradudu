@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Favour 👋
 
-<!--
-**favouradudu/favouradudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineering student building web applications and exploring backend systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Focus
+
+- **Languages:** TypeScript, JavaScript, Python
+- **Frontend:** React, Tailwind CSS
+- **Backend & Database:** PostgreSQL, Supabase
+- **Current Interests:** Relational database design, API architecture, and mobile-friendly web apps
+
+---
+
+📫 **Connect:** Reach me on GitHub or via [email](mailto:favouradudu33@gmail.com).
